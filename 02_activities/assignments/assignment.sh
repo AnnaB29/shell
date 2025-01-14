@@ -43,6 +43,6 @@ ls -R ./data/processed >> ./data/inventory.txt
 rm -rf ./data
 
 
-###########################################
+############################################
 
 echo "Project setup is complete!"
